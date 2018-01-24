@@ -107,7 +107,7 @@ if __name__ == '__main__':
     # 用户名
     username = '460568740@qq.com'
     # 密码
-    password = 'jie460568740'
+    password = '********'
     # 车次选择，0代表所有车次
     order = 2
     # 乘客名，比如passengers = ['丁小红', '丁小明']
